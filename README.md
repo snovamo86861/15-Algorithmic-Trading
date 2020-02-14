@@ -1,4 +1,4 @@
-# 15-Algorithmic-Trading
+# Algorithmic-Trading
 
 **Session 15.1 Algorithmic Trading I**
 
